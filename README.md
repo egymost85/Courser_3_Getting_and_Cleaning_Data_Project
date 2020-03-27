@@ -1,6 +1,8 @@
 Getting and Cleaning Data Project
 
-Blog Post: Getting and Cleaning Data Review
+"AllDataset1" is the final tidy dataset
+"AllDataset2" is the average dataset
+
 Data Zip File Location: UC Irvine Repo
 
 Goal of the Project
